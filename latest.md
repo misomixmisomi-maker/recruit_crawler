@@ -1,11 +1,11 @@
 # Latest collection
 
-Checked: 2026-11-03T13:28:32.827043+09:00
+Checked: 2026-11-03T13:31:42.837541+09:00
 
 Search candidates only; not verified recommendations.
 
 - saramin: ok, 443 collected
-- jobkorea: ok, 258 collected
+- jobkorea: ok, 257 collected
 
 | Platform | Company | Job | Region | Career | Deadline | Detail |
 |---|---|---|---|---|---|---|
@@ -147,10 +147,10 @@ Search candidates only; not verified recommendations.
 | jobkorea | ㈜앱솔브랩 | [[셀리맥스] BX 콘텐츠 디자이너 파트타이머 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50269579) | 서울 강남구 | 신입 |  | not_checked |
 | jobkorea | 베라모어 주식회사 | [[베라모어] 뷰티 브랜드 콘텐츠 디자이너](https://www.jobkorea.co.kr/Recruit/GI_Read/50200745) | 서울 성동구 | 경력무관 |  | not_checked |
 | jobkorea | ㈜더웍스컴퍼니 | [캐릭터 브랜딩·콘텐츠 디자이너 모집](https://www.jobkorea.co.kr/Recruit/GI_Read/50040769) | 서울 영등포구 | 경력무관 |  | not_checked |
-| jobkorea | ㈜송원 | [[세레스홈] 콘텐츠 디자이너 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50214117) | 서울 강남구 | 신입 |  | not_checked |
 | jobkorea | ㈜엠케이로드 | [[엠케이로드] 퍼포먼스 광고 콘텐츠 디자이너 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50240717) | 서울 노원구 | 경력무관 |  | not_checked |
-| jobkorea | ㈜디에르코 | [[1423] 수입의류 패션 콘텐츠 디자이너 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50252906) | 서울 강남구 | 경력무관 |  | not_checked |
+| jobkorea | ㈜송원 | [[세레스홈] 콘텐츠 디자이너 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50214117) | 서울 강남구 | 신입 |  | not_checked |
 | jobkorea | ㈜피플즈 | [AI 교육 소셜벤처 - 교육콘텐츠 디자이너 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50191537) | 서울 노원구 | 경력무관 |  | not_checked |
+| jobkorea | ㈜디에르코 | [[1423] 수입의류 패션 콘텐츠 디자이너 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50252906) | 서울 강남구 | 경력무관 |  | not_checked |
 | jobkorea | 아르케즈 | [[재택근무] 아르케즈 콘텐츠 디자이너 모집](https://www.jobkorea.co.kr/Recruit/GI_Read/50207379) | 서울 강동구 | 경력무관 |  | not_checked |
 | jobkorea | ㈜더숨 | [이러닝 콘텐츠 디자이너, 모션그래픽/화면설계](https://www.jobkorea.co.kr/Recruit/GI_Read/50177032) | 서울 금천구 | 경력무관 |  | not_checked |
 | jobkorea | ㈜씨디스트 | [상품 콘텐츠 디자이너 (제품숏츠,상세페이지,썸네일 제작)](https://www.jobkorea.co.kr/Recruit/GI_Read/50033154) | 서울 강서구 | 경력무관 |  | not_checked |
@@ -162,8 +162,8 @@ Search candidates only; not verified recommendations.
 | jobkorea | 러너블㈜ | [(러너블) 브랜드 디자이너](https://www.jobkorea.co.kr/Recruit/GI_Read/50133224) | 서울 마포구 | 신입 |  | not_checked |
 | jobkorea | ㈜토탈임팩트 | [브랜드 디자이너(BX) 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50246492) | 서울 성동구 | 신입 |  | not_checked |
 | jobkorea | ㈜알로스타 | [[AI 헬스케어] 브랜드 디자이너 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50080494) | 서울 강서구 | 경력무관 |  | not_checked |
-| jobkorea | 스튜디오오비에스㈜ | [스포츠의류 브랜드 디자이너](https://www.jobkorea.co.kr/Recruit/GI_Read/50154145) | 서울 성동구 | 경력무관 |  | not_checked |
 | jobkorea | ㈜푼타컴퍼니(Punta Company Co., Ltd) | [[푼타컴퍼니] 로컬 인디 식품 브랜드 애그리게이터 기업 브랜드 디자이너](https://www.jobkorea.co.kr/Recruit/GI_Read/50105210) | 서울 동작구 | 경력무관 |  | not_checked |
+| jobkorea | 스튜디오오비에스㈜ | [스포츠의류 브랜드 디자이너](https://www.jobkorea.co.kr/Recruit/GI_Read/50154145) | 서울 성동구 | 경력무관 |  | not_checked |
 | jobkorea | ㈜헤렌 | [[헤렌/공비서] 뷰티 브랜드 디자이너](https://www.jobkorea.co.kr/Recruit/GI_Read/50139183) | 서울 성동구 | 경력무관 |  | not_checked |
 | jobkorea | 원웨이 | [[Oneway] 브랜드 디자이너 인턴 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50046160) | 서울 성북구 | 신입 |  | not_checked |
 | jobkorea | 시노텍코리아㈜ | [E-커머스 제품 영상 크리에이터/SNS 콘텐츠 마케터 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50286523) | 서울 송파구 | 경력무관 |  | not_checked |
@@ -171,8 +171,8 @@ Search candidates only; not verified recommendations.
 | jobkorea | YOHN | [[살롱드욘] 의류 브랜드 디자이너 채용 신입 경력](https://www.jobkorea.co.kr/Recruit/GI_Read/50252224) | 서울 강남구 | 신입 |  | not_checked |
 | jobkorea | ㈜블랙뉴 | [[BLACKNEW] 스타트업 초기 멤버 / 브랜드 디자이너](https://www.jobkorea.co.kr/Recruit/GI_Read/49960964) | 서울 성동구 | 경력무관 |  | not_checked |
 | jobkorea | ㈜위즈그룹 | [글로벌 코스메틱 브랜드 이커머스 웹디자이너 신입채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50145815) | 서울 금천구 | 경력무관 |  | not_checked |
-| jobkorea | 아토모스 | [커머스 디자이너](https://www.jobkorea.co.kr/Recruit/GI_Read/50174361) |  | 경력무관 |  | not_checked |
 | jobkorea | 블랙퍼플 | [[파시온] 패션 브랜드 서브디자이너](https://www.jobkorea.co.kr/Recruit/GI_Read/50223953) | 서울 성동구 | 경력무관 |  | not_checked |
+| jobkorea | 아토모스 | [커머스 디자이너](https://www.jobkorea.co.kr/Recruit/GI_Read/50174361) |  | 경력무관 |  | not_checked |
 | jobkorea | ㈜원에프엔씨 | [여성의류 쇼핑몰 디자인팀 보조 3시간 아르바이트 모집](https://www.jobkorea.co.kr/Recruit/GI_Read/50269089) | 서울 동대문구 | 경력무관 |  | not_checked |
 | jobkorea | ㈜굿앤컴퍼니 | [[경력무관] 실내 인테리어 설계 디자이너 모집](https://www.jobkorea.co.kr/Recruit/GI_Read/50274329) | 서울 강서구 | 경력무관 |  | not_checked |
 | jobkorea | ㈜인스브룩크 | [[경력/계약직] 웹디자이너 모집(상세페이지, 배너 등)](https://www.jobkorea.co.kr/Recruit/GI_Read/50169510) | 서울 강서구 | 신입 |  | not_checked |
@@ -185,13 +185,13 @@ Search candidates only; not verified recommendations.
 | jobkorea | 씨씨씨컴퍼니 | [(주)씨씨씨컴퍼니 YASE AI 콘텐츠 디자이너 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50176782) | 서울 동대문구 |  |  | not_checked |
 | jobkorea | 주식회사 하이스트그로우 | [2026 하이스트 출판사 경력 북디자이너ㆍAI 활용 가능자 정규직 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50267297) | 서울 강남구 |  |  | not_checked |
 | jobkorea | ㈜컬러퍼즐 | [[바인] AI 적극 활용 가능한 영상 디자이너 모집](https://www.jobkorea.co.kr/Recruit/GI_Read/50155533) | 서울 마포구 | 경력무관 |  | not_checked |
-| jobkorea | ㈜에이틴에이치 | [10시-17시30분 3D ,AI 콘텐츠 디자이너 구인](https://www.jobkorea.co.kr/Recruit/GI_Read/49943855) | 서울 강남구 | 신입 |  | not_checked |
 | jobkorea | ㈜아이아이컴바인드 | [[GENTLE MONSTER] AI 시네마틱 컨셉 비주얼 디자이너](https://www.jobkorea.co.kr/Recruit/GI_Read/50040484) | 서울 성동구 | 경력무관 |  | not_checked |
+| jobkorea | ㈜에이틴에이치 | [10시-17시30분 3D ,AI 콘텐츠 디자이너 구인](https://www.jobkorea.co.kr/Recruit/GI_Read/49943855) | 서울 강남구 | 신입 |  | not_checked |
 | jobkorea | ㈜케이케이에스티 | [[KKST] AI 패션 비주얼 디자이너 채용(경력무관)](https://www.jobkorea.co.kr/Recruit/GI_Read/50243162) | 서울 강남구 | 경력무관 |  | not_checked |
-| jobkorea | ㈜네스트디자인파트너스 | [인테리어 3D / AI 렌더링 디자이너 신입 및 경력자 모집](https://www.jobkorea.co.kr/Recruit/GI_Read/50248463) | 서울 강남구 | 경력무관 |  | not_checked |
 | jobkorea | 퍼펭스튜디오 | [시각 그래픽 디자이너(편집, AI, 행사 등)](https://www.jobkorea.co.kr/Recruit/GI_Read/50253003) | 서울 성동구 | 신입 |  | not_checked |
-| jobkorea | 데일데일 | [이커머스 AI 영상 편집자 디자이너 모집합니다](https://www.jobkorea.co.kr/Recruit/GI_Read/50265138) | 서울 송파구 | 신입 |  | not_checked |
+| jobkorea | ㈜네스트디자인파트너스 | [인테리어 3D / AI 렌더링 디자이너 신입 및 경력자 모집](https://www.jobkorea.co.kr/Recruit/GI_Read/50248463) | 서울 강남구 | 경력무관 |  | not_checked |
 | jobkorea | ㈜포브라이프 | [[운동복 브랜드] 웹디자이너 채용 / 상세페이지  배너디자인 AI 활용](https://www.jobkorea.co.kr/Recruit/GI_Read/50119110) | 서울 동대문구 | 경력무관 |  | not_checked |
+| jobkorea | 데일데일 | [이커머스 AI 영상 편집자 디자이너 모집합니다](https://www.jobkorea.co.kr/Recruit/GI_Read/50265138) | 서울 송파구 | 신입 |  | not_checked |
 | jobkorea | 주식회사 비드유니버스 | [패션·잡화 브랜드 AI 콘텐츠 제작자, AI크리에이터 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50167811) | 서울 마포구 | 경력무관 |  | not_checked |
 | jobkorea | 143엔터테인먼트 | [143엔터테인먼트 AI콘텐츠 크리에이터 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50161941) | 서울 강남구 |  |  | not_checked |
 | jobkorea | ㈜스푼랩스 | [[Vigloo] AI 영상 크리에이터 (1년 계약직/숏드라마 AI Content Creator)](https://www.jobkorea.co.kr/Recruit/GI_Read/50137423) | 서울 강남구 | 경력무관 |  | not_checked |
