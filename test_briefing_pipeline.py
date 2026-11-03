@@ -19,6 +19,17 @@ class PipelineTests(unittest.TestCase):
         self.assertEqual(jobs[0]['career'], '')
         self.assertEqual(triage(jobs[0])[0], 'conditional')
 
+    def test_current_card_keeps_title_and_excludes_non_seoul(self):
+        html = '''<div data-sentry-component="CardJob"><div>
+        <a data-sentry-component="Title" href="/Recruit/GI_Read/91">콘텐츠 디자이너</a>
+        </div><span><a href="/Recruit/GI_Read/91">제목보다 훨씬 긴 회사 이름 주식회사</a></span>
+        <div data-sentry-component="GrayChip">경기 하남시</div><span>신입·경력</span></div>'''
+        job = parse_jobkorea(html)[0]
+        self.assertEqual(job['title'], '콘텐츠 디자이너')
+        self.assertEqual(job['company'], '제목보다 훨씬 긴 회사 이름 주식회사')
+        self.assertEqual(job['career'], '신입·경력')
+        self.assertEqual(triage(job)[0], 'excluded')
+
     def test_jsonld_and_tracking_dedup(self):
         html = '''<script type="application/ld+json">{"@graph":[{"@type":"JobPosting",
         "title":"콘텐츠 디자이너", "url":"https://www.jobkorea.co.kr/Recruit/GI_Read/88",
