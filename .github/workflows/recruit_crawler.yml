@@ -11,6 +11,7 @@ on:
       - 'saramin_crawler.py'
       - 'test_briefing_pipeline.py'
       - 'requirements.txt'
+      - 'collection-request.json'
       - '.github/workflows/recruit_crawler.yml'
 
 permissions:
