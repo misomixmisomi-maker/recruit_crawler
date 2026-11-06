@@ -1,36 +1,36 @@
 # Latest collection
 
-Checked: 2026-11-05T12:28:35.775496+09:00
+Checked: 2026-11-06T09:02:15.903283+09:00
 
 Search candidates only; not verified recommendations.
 
-- saramin: ok, 443 collected
-- jobkorea: ok, 244 collected
+- saramin: ok, 441 collected
+- jobkorea: ok, 248 collected
 
 | Platform | Company | Job | Region | Career | Deadline | Detail |
 |---|---|---|---|---|---|---|
 | saramin | (주)휴먼코아 | [[재택근무 l 유망 스타트업]콘텐츠 디자이너채용](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55332052) | 서울전체 | 신입·경력 | ~ 11/18(수) | text_available |
-| saramin | (주)컬처스원 | [콘텐츠 디자이너신입/경력 채용](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55452758) | 서울 마포구 | 신입·경력 | ~ 12/05(토) | text_available |
 | saramin | (주)중앙아이씨에스 | [2026 이러닝콘텐츠 디자이너(신입/경력) 채용](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55351734) | 서울 마포구 | 신입·경력 | ~ 11/20(금) | text_available |
 | saramin | (주)디3 | [[D3] 채용브랜딩 AE·박람회기획 AE·콘텐츠디자이너 동시 채용](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55404413) | 서울 성동구 | 경력무관 | ~ 11/27(금) | text_available |
-| saramin | (주)웬즈데이오아시스 | [WEDNESDAY OASIS 웹/콘텐츠 디자이너채용](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55419288) | 서울 성북구 | 신입·경력 | ~ 11/27(금) | text_available |
 | saramin | 퍼포먼스디자인(주) | [[금천구] 광고/콘텐츠 웹디자이너 경력직 모집](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55396439) | 서울 금천구 | 신입·경력 | 상시채용 | text_available |
 | saramin | (주)더블유비엔에스 | [(주)WB&S콘텐츠 디자이너모집](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55454707) | 서울 성동구 | 신입·경력 | ~ 12/02(수) | text_available |
 | saramin | (주)레진엔터테인먼트 | [[다우키움 계열사] 레진코믹스 글로벌콘텐츠 디자이너(1-2년)](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55484459) | 서울 성동구 | 신입·경력 | ~ 12/04(금) | text_available |
 | saramin | (주)앰프 | [[주식회사 앰프] K-POP 굿즈·콘텐츠 디자이너채용 (신입/경력)](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55337620) | 서울 종로구 | 경력무관 | ~ 11/19(목) | text_available |
 | saramin | (주)브리지임팩트 | [통합 마케팅, 광고 및 소셜콘텐츠 디자이너(시각/그래픽)](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55486301) | 서울 강남구 | 경력무관 | ~ 11/18(수) | text_available |
 | saramin | (주)더줌코리아 | [[더줌코리아] UI/UX·콘텐츠 디자이너채용](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55416095) | 서울 서초구 | 경력무관 | ~ 11/11(수) | text_available |
-| saramin | (주)크리벤티(Creaventi Inc.) | [AI콘텐츠 디자이너/ AI 크리에이터 채용 공고](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55223836) | 서울 중구 | 경력무관 | 내일마감 | text_available |
+| saramin | (주)웬즈데이오아시스 | [WEDNESDAY OASIS 웹/콘텐츠 디자이너채용](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55419288) | 서울 성북구 | 신입·경력 | ~ 11/27(금) | text_available |
+| saramin | (주)컬처스원 | [콘텐츠 디자이너신입/경력 채용](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55452758) | 서울 마포구 | 신입·경력 | ~ 12/05(토) | text_available |
+| saramin | (주)크리벤티(Creaventi Inc.) | [AI콘텐츠 디자이너/ AI 크리에이터 채용 공고](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55223836) | 서울 중구 | 경력무관 | 오늘마감 | text_available |
 | saramin | (주)더웍스컴퍼니 | [캐릭터 브랜딩·  SNS콘텐츠 디자이너모집](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55263941) | 서울 영등포구 | 경력무관 | ~ 11/11(수) | not_checked |
 | saramin | (주)그리플랜 | [아마존콘텐츠 디자이너(경력 1년 이상 · 신입 가능)](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55485491) | 서울 성동구 | 신입·경력 | ~ 12/04(금) | not_checked |
 | saramin | 비주얼코쿤 | [시각 디자이너 /  편집 디자이너 /콘텐츠 디자이너신입 & 경력](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55205868) | 서울 성북구 | 경력무관 | ~ 12/05(토) | not_checked |
 | saramin | (주)모먼트디자인 | [[메이드모먼 / 더나인몰]콘텐츠 디자이너정규직 모집](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55415052) | 서울 성동구 | 신입·경력 | ~ 11/15(일) | not_checked |
 | saramin | (주)앱솔브랩 | [[셀리맥스] BX콘텐츠 디자이너파트타이머 채용](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55413105) | 서울 강남구 | 신입 | ~ 11/12(목) | not_checked |
 | saramin | (주)키스템프그룹 | [[역삼/월-280만] 유명 패션기업 SNS 광고콘텐츠 디자이너채용](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55429888) | 서울 강남구 | 경력무관 | ~ 11/10(화) | not_checked |
-| saramin | 알파메디칼(주) | [에스테틱 브랜드 마케팅 &콘텐츠 디자이너채용 (정규직)](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55225433) | 서울 서초구 | 경력무관 | 내일마감 | not_checked |
+| saramin | 알파메디칼(주) | [에스테틱 브랜드 마케팅 &콘텐츠 디자이너채용 (정규직)](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55225433) | 서울 서초구 | 경력무관 | 오늘마감 | not_checked |
 | saramin | (주)퀴버메딕 | [[Quiver Medic] 글로벌 SNS AI 영상콘텐츠 디자이너채용](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55338776) | 서울 영등포구 | 경력무관 | ~ 11/19(목) | not_checked |
 | saramin | (주)비케이네스트 | [펫코본콘텐츠 디자이너영입](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55290645) | 서울 강동구 | 신입·경력 | ~ 11/16(월) | not_checked |
-| saramin | (주)고지식바이오 | [[메라블] 콘텐츠디자이너](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55405318) | 서울 금천구 | 경력무관 | ~ 11/26(목) | not_checked |
+| saramin | (주)스터너즈 | [[신입]브랜드 디자이너(웹/패키지) / 상세·패키지 / 5시 퇴근](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55490473) | 서울 금천구 | 신입 | ~ 12/05(토) | not_checked |
 | saramin | (주)하우투약 | [[하우투약]브랜드 디자이너채용](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55275126) | 서울 강남구 | 경력무관 | ~ 11/12(목) | not_checked |
 | saramin | 성원이즈(주) | [브랜드 디자이너채용](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55342733) | 서울 성동구 | 신입·경력 | ~ 11/18(수) | not_checked |
 | saramin | (주)미라클스 | [브랜드 디자이너신입 채용](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55294985) | 서울 서초구 | 신입 | ~ 11/14(토) | not_checked |
@@ -38,11 +38,9 @@ Search candidates only; not verified recommendations.
 | saramin | (주)아이즈룸 | [[HILLDA 힐다] 패션브랜드 디자이너채용](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55258786) | 서울 중구 | 경력무관 | ~ 11/11(수) | not_checked |
 | saramin | (주)벤처리스트 | [[뷰티 브랜드]브랜드 디자이너채용의 건 (패키지/그래픽)](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55430275) | 서울 용산구 | 경력무관 | ~ 12/28(월) | not_checked |
 | saramin | 크레센도컴퍼니 | [[애쉬로렌 코스메틱 브랜드]브랜드 디자이너채용 공고](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55391073) | 서울 성동구 | 신입·경력 | ~ 11/08(일) | not_checked |
+| saramin | (주)투메이커스 | [(주)투메이커스 건기식브랜드 디자이너채용 공고](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55492383) | 서울 중구 | 신입·경력 | ~ 12/05(토) | not_checked |
 | saramin | (주)360컴퍼니 | [[360컴퍼니] BI BX 디자이너,브랜드 디자이너인턴 모집](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55300462) | 서울 서초구 | 경력무관 | ~ 11/30(월) | not_checked |
 | saramin | 마이림 | [마이림 의류브랜드 웹디자이너 채용 공고](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55464204) | 서울 성동구 | 경력무관 | ~ 12/02(수) | not_checked |
-| saramin | (주)토탈임팩트 | [브랜드 디자이너(BX) 채용](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55401273) | 서울 성동구 | 신입 | ~ 11/10(화) | not_checked |
-| saramin | (주)리틀뎁 | [리틀뎁 삠뽀요 신규브랜드 디자이너모집](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55312004) | 서울 성동구 | 신입·경력 | ~ 11/15(일) | not_checked |
-| saramin | (주)스터너즈 | [[신입]브랜드 디자이너(웹/패키지) / 상세·패키지 / 5시 퇴근](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55490473) | 서울 금천구 | 신입 | ~ 12/05(토) | not_checked |
 | saramin | 셀리젠그룹(주) | [셀리젠그룹(주)브랜드 디자이너채용 공고](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55148935) | 서울 강남구 | 신입·경력 | ~ 11/28(토) | not_checked |
 | saramin | (주)한국금다이아몬드 | [[한국금다이아몬드] 주얼리 브랜드 웹디자이너 채용](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55309486) | 서울 종로구 | 경력무관 | ~ 11/15(일) | not_checked |
 | saramin | (주)푼타컴퍼니 | [[푼타컴퍼니] 인디 식품 애그리게이터 기업브랜드 디자이너](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55200773) | 서울 동작구 | 경력무관 | 상시채용 | not_checked |
@@ -50,9 +48,10 @@ Search candidates only; not verified recommendations.
 | saramin | (주)고지식바이오 | [[메라블] 브랜드디자이너](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55405310) | 서울 금천구 | 신입·경력 | ~ 11/26(목) | not_checked |
 | saramin | 아파트멘터리(주) | [[아파트멘터리] Parts·Arckit브랜드 디자이너인턴](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55352467) | 서울 강남구 | 경력무관 | ~ 12/20(일) | not_checked |
 | saramin | (주)플레이비 | [브랜드 웹디자이너 신입 및 경력 채용](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55378790) | 서울 송파구 | 신입·경력 | ~ 11/22(일) | not_checked |
-| saramin | 러너블(주) | [러너블브랜드 디자이너](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=54962851) | 서울 마포구 | 신입·경력 | 내일마감 | not_checked |
+| saramin | 러너블(주) | [러너블브랜드 디자이너](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=54962851) | 서울 마포구 | 신입·경력 | 오늘마감 | not_checked |
 | saramin | (주)에스로이 | [(주)에스로이 뷰티브랜드 디자이너채용공고](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55052549) | 서울 강남구 | 경력무관 | ~ 11/15(일) | not_checked |
 | saramin | (주)열심히사는사람들 | [(주)열심히사는사람들과 함께 성장할 브랜드디자이너를 찾습니다](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55066921) | 서울 금천구 | 경력무관 | 채용시 | not_checked |
+| saramin | (주)튜트마 | [코스매틱브랜드 디자이너](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55089051) | 서울 용산구 | 경력무관 | ~ 11/20(금) | not_checked |
 | saramin | 자연담음영농조합법인 | [[해남별] 이커머스 웹디자이너 채용](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55442264) | 서울 성북구 | 경력무관 | ~ 12/29(화) | not_checked |
 | saramin | 모던닥터 | [이커머스 디자이너(상세페이지·AI 이미지·GIF 제작) 모집](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55300821) | 서울 금천구 | 신입·경력 | ~ 11/14(토) | not_checked |
 | saramin | 원웨이 | [[Oneway] 이커머스 디자이너인턴 채용](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55111773) | 서울 성북구 | 신입 | ~ 11/22(일) | not_checked |
@@ -80,7 +79,7 @@ Search candidates only; not verified recommendations.
 | saramin | (주)다이얼로그디자인에이전시 | [한국어 AI 대화 디자이너](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55308591) | 서울 송파구 | 신입·경력 | ~ 11/15(일) | not_checked |
 | saramin | (주)아이아이컴바인드 | [[GENTLE MONSTER] AI 시네마틱 컨셉 비주얼 디자이너](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55103804) | 서울 성동구 | 경력무관 | ~ 11/21(토) | not_checked |
 | saramin | (주)마바산업 | [[현대자동차 협력사 (주)마바산업]서울 AI기반제품디자이너 공고](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55289003) | 서울 강남구 | 신입·경력 | ~ 11/17(화) | not_checked |
-| saramin | (주)라온스퀘어 | [AI 기반 모션 그래픽 디자이너 (신입/경력) 채용공고](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55239837) | 서울 성동구 | 경력무관 | ~ 11/07(토) | not_checked |
+| saramin | (주)라온스퀘어 | [AI 기반 모션 그래픽 디자이너 (신입/경력) 채용공고](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55239837) | 서울 성동구 | 경력무관 | 내일마감 | not_checked |
 | saramin | 오라클코스메틱(주) | [[닥터오라클]  Ai 활용 영상 디자이너 신입 또는 경력직 구인](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55272763) | 서울 강남구 | 경력무관 | ~ 11/12(목) | not_checked |
 | saramin | (주)케이케이에스티 | [[KKST] AI 패션 비주얼 디자이너 채용(경력무관)](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55395438) | 서울 강남구 | 경력무관 | ~ 11/25(수) | not_checked |
 | saramin | (주)프라이노크 | [패션 브랜드 [더 녹인 THE NOCKIN ] AI 이미지 활용 웹디자이너](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55340907) | 서울 성동구 | 경력무관 | ~ 11/19(목) | not_checked |
@@ -93,9 +92,11 @@ Search candidates only; not verified recommendations.
 | saramin | 미위컴퍼니 | [웹 디자이너 채용 (AI툴 사용가능자)](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55405638) | 서울 동대문구 | 신입·경력 | ~ 11/26(목) | not_checked |
 | saramin | (주)한올지앤피 | [브랜드 굿즈 디자이너 채용(AI 툴 활용 가능자 우대)](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55366615) | 서울 성동구 | 경력무관 | ~ 11/21(토) | not_checked |
 | saramin | 스타리뷰 | [[스타리뷰] 디자이너 모집 신입·경력 무관 ( AI 강의지원 )](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55306436) | 서울 송파구 | 경력무관 | ~ 11/15(일) | not_checked |
+| saramin | 우린 디자인 | [인테리어 디자이너 모집 (AI 디자인·고객상담·백화점 근무)](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55489987) | 서울 강서구 | 경력무관 | ~ 12/05(토) | not_checked |
 | saramin | (주)어센드 | [[생성형 AI 콘텐츠 기획 제작] 디자인 마케터 크리에이터 모집](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55429256) | 서울 강남구 | 경력무관 | ~ 11/30(월) | not_checked |
 | saramin | 컨테이너스 주식회사 | [AI 디자인 디렉터](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55419284) | 서울 강남구 | 신입·경력 | ~ 11/27(금) | not_checked |
 | saramin | (주)아이아이컴바인드 | [[GENTLE MONSTER] AI Experience 기획/디자인 담당자](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55145190) | 서울 성동구 | 경력무관 | ~ 11/28(토) | not_checked |
+| saramin | 컨테이너스 주식회사 | [[컨테이너스] AI 디자인 디렉터 (AI Design Director) 채용](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55418928) | 서울 강남구 | 경력무관 | 채용시 | not_checked |
 | saramin | (주)메타크래프트 | [[메타크래프트] AI아트 크리에이터 모집 안내](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55027231) | 서울 구로구 | 신입·경력 | ~ 11/14(토) | not_checked |
 | saramin | (주)고워드 | [[GOWARD] AI 콘텐츠 크리에이터 모집 (프리랜서)](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55248964) | 서울 강남구 | 경력무관 | ~ 11/09(월) | not_checked |
 | saramin | (주)와우바이오텍 | [[RE4DAY] AI 영상 콘텐츠 크리에이터](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55412320) | 서울 영등포구 | 신입·경력 | ~ 11/30(월) | not_checked |
@@ -104,7 +105,6 @@ Search candidates only; not verified recommendations.
 | saramin | (주)줄라이하우스 | [AI 영상 제작의 새로운 기준을 함께 만들 크리에이터를 찾습니다](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55151858) | 서울 용산구 | 경력무관 | ~ 11/28(토) | not_checked |
 | saramin | 111퍼센트(주) | [[하이페라] 채용 연계형 인턴십 : AI 애니메이션 크리에이터](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55480634) | 서울 성동구 | 경력무관 | ~ 01/03(일) | not_checked |
 | saramin | (주)소다라이브 | [[소다라이브] 생성형 AI 콘텐츠 크리에이터 모집](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55198662) | 서울 강남구 | 경력무관 | ~ 11/30(월) | not_checked |
-| saramin | 스푼랩스 | [[Vigloo] AI 영상 크리에이터 (1년 계약직)](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55289881) | 서울 강남구 | 경력무관 | 채용시 | not_checked |
 | saramin | (주)와우바이오텍 | [[RE4DAY] AI 영상 콘텐츠 크리에이터](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55437376) | 서울 영등포구 | 신입·경력 | ~ 11/30(월) | not_checked |
 | saramin | 주식회사코스(KOSCo.,Ltd) | [2026 코스 라이브 커머스 AI 영상 콘텐츠 크리에이터 채용](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55273308) | 서울 마포구 | 경력무관 | ~ 11/12(목) | not_checked |
 | saramin | (주)하트에이아이 | [생성형  AI이미지 영상 콘텐츠 크리에이터 모집](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55207348) | 서울 구로구 | 경력무관 | ~ 12/05(토) | not_checked |
@@ -112,11 +112,10 @@ Search candidates only; not verified recommendations.
 | saramin | (주)플링캐스트 | [AI 캐릭터챗·스토리챗 여성향 플랫폼-플링 : 크리에이터 매니저](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55393640) | 서울 강남구 | 경력무관 | ~ 11/25(수) | not_checked |
 | saramin | 헤움디자인(주) | [[AI마케팅] 폰트마케팅 영상·이미지 제작 및 브랜딩 크리에이터](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55485888) | 서울 광진구 | 경력무관 | ~ 11/30(월) | not_checked |
 | saramin | 스트로베리잼(주) | [[오키뷰티] SNS 마케터 & 콘텐츠 크리에이터 채용 (AI콘텐츠)](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55394549) | 서울 강남구 | 경력무관 | ~ 11/25(수) | not_checked |
-| saramin | (주)코스네이처 | [[중견기업그룹사 닥터린] 영상 편집 담당자 채용모집](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55309744) | 서울 금천구 | 경력무관 | ~ 12/15(화) | not_checked |
 | saramin | (주)흥해라청춘 | [2026년 흥해라청춘 영상제작 PD 모집](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55342328) | 서울 영등포구 | 경력무관 | ~ 11/19(목) | not_checked |
 | saramin | 쇼미디어 | [[쇼미디어] 공연·뮤지컬 홍보영상제작 PD 채용형 인턴 모집](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55395135) | 서울 서초구 | 신입·경력 | 채용시 | not_checked |
 | saramin | (주)빅픽처팀 | [[빅픽처팀]  콘텐츠(숏폼) 디자이너 채용 (신입/경력)](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55372461) | 서울 강남구 | 신입·경력 | ~ 11/22(일) | not_checked |
-| saramin | 빌라르 | [[빌라르] 숏폼·콘텐츠 디자이너 채용](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55242281) | 서울 금천구 | 경력무관 | ~ 11/07(토) | not_checked |
+| saramin | 빌라르 | [[빌라르] 숏폼·콘텐츠 디자이너 채용](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55242281) | 서울 금천구 | 경력무관 | 내일마감 | not_checked |
 | saramin | (주)마이크로젠타스 | [화장품 SNS 숏폼, 포토샵 일러스트 디자이너 채용](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55278391) | 서울 동대문구 | 경력무관 | ~ 11/12(목) | not_checked |
 | saramin | (주)마이크로젠타스 | [[인턴] 화장품 SNS 숏폼, 포토샵 일러스트 디자이너 채용](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55303642) | 서울 동대문구 | 경력무관 | ~ 11/14(토) | not_checked |
 | saramin | 핀트성형외과의원 | [신사역 [핀트성형외과] 디자이너 채용 (SNS·광고·숏폼 콘텐츠)](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=54991795) | 서울 서초구 | 경력무관 | ~ 11/08(일) | not_checked |
@@ -124,23 +123,21 @@ Search candidates only; not verified recommendations.
 | saramin | (주)대원리프레쉬 | [상품 디자인 및 숏폼 제작 등](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55341965) | 지역 없음 | 학력무관 | ~ 11/19(목) | not_checked |
 | saramin | (주)씨앤더블유코리아 | [과일 온라인 디자인, 숏폼 제작 , 바이럴마케팅 담당자 채용](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55085490) | 서울 송파구 | 경력무관 | ~ 11/20(금) | not_checked |
 | saramin | (주)포켓컴퍼니 | [[ 디자인 채용 2차 ] BX · UX · UI](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55137615) | 서울 강남구 | 경력무관 | ~ 11/27(금) | not_checked |
-| saramin | (주)재니알티 | [[젠슬/zencil]콘텐츠 마케터 채용(콘텐츠·SNS·디자인)뷰티우대](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55480050) | 서울 용산구 | 신입·경력 | ~ 12/04(금) | not_checked |
 | saramin | (주)송영철공작소 | [AI 영상 제작 및 영상 기획 채용](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55391642) | 서울 영등포구 | 신입·경력 | ~ 11/24(화) | not_checked |
 | saramin | 비크라우드(주) | [[비크라우드] SNS 콘텐츠 신입 디자이너를 찾습니다. (신입)](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55389023) | 서울 송파구 | 신입 | ~ 11/25(수) | not_checked |
+| saramin | (주)에코마케팅 | [[에코마케팅] 마케팅 영상 크리에이터 채용](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55491857) | 서울 송파구 | 신입·경력 | ~ 11/15(일) | not_checked |
 | jobkorea | 두산매거진 | [패스트페이퍼팀 콘텐츠 디자이너 경력사원 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50288741) | 서울 강남구 |  | 2026-11-15T23:59 | structured_available |
-| jobkorea | 중앙아이씨에스 | [이러닝 콘텐츠 디자이너 (신입&경력) 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50212641) | 서울 마포구 | 신입 | 2026-11-20T23:59 | structured_available |
 | jobkorea | ㈜크리에이티브비범 | [콘텐츠 디자이너 정규직 모집](https://www.jobkorea.co.kr/Recruit/GI_Read/50225056) | 서울 마포구 | 경력무관 | 2027-10-21T15:00 | structured_available |
 | jobkorea | 로켓AI | [[청월당(로켓AI)] 콘텐츠 디자이너](https://www.jobkorea.co.kr/Recruit/GI_Read/50188115) | 서울 마포구 | 경력무관 | 2026-12-15T23:59 | structured_available |
-| jobkorea | 스마트섹션 코리아 | [[스마트섹션코리아] SNS 숏폼 영상 크리에이터 (뷰티·화장품) 신입·경력](https://www.jobkorea.co.kr/Recruit/GI_Read/50272392) | 서울 서초구 | 신입 | 2027-10-29T15:00 | structured_available |
-| jobkorea | ㈜에스비엘컴퍼니 | [여성의류 브랜드 르베인(LEBANE) 웹 컨텐츠 디자이너 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50113159) | 서울 중구 | 신입·경력2년↑ | 2026-11-05T23:59 | structured_available |
+| jobkorea | 중앙아이씨에스 | [이러닝 콘텐츠 디자이너 (신입&경력) 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50212641) | 서울 마포구 | 신입 | 2026-11-20T23:59 | structured_available |
 | jobkorea | (주)더블루파트너스 | [[애드업] AI활용 & 숏폼/배너 콘텐츠 디자이너 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50102554) | 서울 송파구 | 신입 | 2027-10-01T15:00 | structured_available |
 | jobkorea | ㈜아루 | [콘텐츠 디자이너](https://www.jobkorea.co.kr/Recruit/GI_Read/50198850) | 서울 강남구 | 신입 |  | error |
 | jobkorea | ㈜앱솔브랩 | [[셀리맥스] BX 콘텐츠 디자이너 파트타이머 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50269579) | 서울 강남구 | 신입 |  | not_checked |
+| jobkorea | 스마트섹션 코리아 | [[스마트섹션코리아] SNS 숏폼 영상 크리에이터 (뷰티·화장품) 신입·경력](https://www.jobkorea.co.kr/Recruit/GI_Read/50272392) | 서울 서초구 | 신입 |  | not_checked |
 | jobkorea | 베라모어 주식회사 | [[베라모어] 뷰티 브랜드 콘텐츠 디자이너](https://www.jobkorea.co.kr/Recruit/GI_Read/50200745) | 서울 성동구 | 경력무관 |  | not_checked |
 | jobkorea | ㈜더웍스컴퍼니 | [캐릭터 브랜딩·콘텐츠 디자이너 모집](https://www.jobkorea.co.kr/Recruit/GI_Read/50040769) | 서울 영등포구 | 경력무관 |  | not_checked |
 | jobkorea | ㈜엠케이로드 | [[엠케이로드] 퍼포먼스 광고 콘텐츠 디자이너 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50240717) | 서울 노원구 | 경력무관 |  | not_checked |
 | jobkorea | ㈜송원 | [[세레스홈] 콘텐츠 디자이너 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50214117) | 서울 강남구 | 신입 |  | not_checked |
-| jobkorea | ㈜레진엔터테인먼트 | [[다우키움 계열사] 레진코믹스 글로벌 콘텐츠 디자이너 (1년 이상)](https://www.jobkorea.co.kr/Recruit/GI_Read/50305344) | 서울 성동구 | 신입 |  | not_checked |
 | jobkorea | ㈜디에르코 | [[1423] 수입의류 패션 콘텐츠 디자이너 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50252906) | 서울 강남구 | 경력무관 |  | not_checked |
 | jobkorea | ㈜피플즈 | [AI 교육 소셜벤처 - 교육콘텐츠 디자이너 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50191537) | 서울 노원구 | 경력무관 |  | not_checked |
 | jobkorea | 아르케즈 | [[재택근무] 아르케즈 콘텐츠 디자이너 모집](https://www.jobkorea.co.kr/Recruit/GI_Read/50207379) | 서울 강동구 | 경력무관 |  | not_checked |
@@ -156,21 +153,24 @@ Search candidates only; not verified recommendations.
 | jobkorea | ㈜토탈임팩트 | [브랜드 디자이너(BX) 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50246492) | 서울 성동구 | 신입 |  | not_checked |
 | jobkorea | ㈜알로스타 | [[AI 헬스케어] 브랜드 디자이너 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50080494) | 서울 강서구 | 경력무관 |  | not_checked |
 | jobkorea | 스튜디오오비에스㈜ | [스포츠의류 브랜드 디자이너](https://www.jobkorea.co.kr/Recruit/GI_Read/50154145) | 서울 성동구 | 경력무관 |  | not_checked |
-| jobkorea | ㈜푼타컴퍼니(Punta Company Co., Ltd) | [[푼타컴퍼니] 로컬 인디 식품 브랜드 애그리게이터 기업 브랜드 디자이너](https://www.jobkorea.co.kr/Recruit/GI_Read/50105210) | 서울 동작구 | 경력무관 |  | not_checked |
 | jobkorea | ㈜알제이디 | [[알제이디/로아앤제인] 아동브랜드 디자이너 대리급 구인](https://www.jobkorea.co.kr/Recruit/GI_Read/50292768) | 서울 성동구 |  |  | not_checked |
+| jobkorea | ㈜푼타컴퍼니(Punta Company Co., Ltd) | [[푼타컴퍼니] 로컬 인디 식품 브랜드 애그리게이터 기업 브랜드 디자이너](https://www.jobkorea.co.kr/Recruit/GI_Read/50105210) | 서울 동작구 | 경력무관 |  | not_checked |
 | jobkorea | ㈜헤렌 | [[헤렌/공비서] 뷰티 브랜드 디자이너](https://www.jobkorea.co.kr/Recruit/GI_Read/50139183) | 서울 성동구 | 경력무관 |  | not_checked |
 | jobkorea | 원웨이 | [[Oneway] 브랜드 디자이너 인턴 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50046160) | 서울 성북구 | 신입 |  | not_checked |
 | jobkorea | 아파트멘터리㈜ | [[리모델링] Parts·Arckit 브랜드 디자이너 인턴](https://www.jobkorea.co.kr/Recruit/GI_Read/50212706) | 서울 강남구 | 경력무관 |  | not_checked |
 | jobkorea | YOHN | [[살롱드욘] 의류 브랜드 디자이너 채용 신입 경력](https://www.jobkorea.co.kr/Recruit/GI_Read/50252224) | 서울 강남구 | 신입 |  | not_checked |
 | jobkorea | ㈜위즈그룹 | [글로벌 코스메틱 브랜드 이커머스 웹디자이너 신입채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50145815) | 서울 금천구 | 경력무관 |  | not_checked |
-| jobkorea | 블랙퍼플 | [[파시온] 패션 브랜드 서브디자이너](https://www.jobkorea.co.kr/Recruit/GI_Read/50223953) | 서울 성동구 | 경력무관 |  | not_checked |
 | jobkorea | 아토모스 | [커머스 디자이너](https://www.jobkorea.co.kr/Recruit/GI_Read/50174361) |  | 경력무관 |  | not_checked |
+| jobkorea | 블랙퍼플 | [[파시온] 패션 브랜드 서브디자이너](https://www.jobkorea.co.kr/Recruit/GI_Read/50223953) | 서울 성동구 | 경력무관 |  | not_checked |
 | jobkorea | ㈜인스브룩크 | [[경력/계약직] 웹디자이너 모집(상세페이지, 배너 등)](https://www.jobkorea.co.kr/Recruit/GI_Read/50169510) | 서울 강서구 | 신입 |  | not_checked |
-| jobkorea | ㈜바우로컴퍼니 | [(주)바우로컴퍼니 패션디자인 (기획,디자인)](https://www.jobkorea.co.kr/Recruit/GI_Read/50222262) | 서울 마포구 | 경력무관 |  | not_checked |
 | jobkorea | ㈜큐아이엔씨 | [마케팅사업부 웹디자이너 채용 (경력)](https://www.jobkorea.co.kr/Recruit/GI_Read/50247220) | 서울 강남구 |  |  | not_checked |
 | jobkorea | ㈜아크틱(Arctic Co.,Ltd.) | [2026 주식회사 아크틱 광고디자이너 채용 (경력무관)](https://www.jobkorea.co.kr/Recruit/GI_Read/50165595) | 서울 강남구 | 경력무관 |  | not_checked |
 | jobkorea | ㈜어센드 | [[AI 활용] 이커머스 브랜드 웹디자인 웹디자이너 모집 (사전인터뷰O)](https://www.jobkorea.co.kr/Recruit/GI_Read/50272456) | 서울 강남구 | 신입 |  | not_checked |
 | jobkorea | 주식회사마리맨즈 | [마리맨즈와 함께하실 웹디자이너 모집합니다](https://www.jobkorea.co.kr/Recruit/GI_Read/50179291) | 서울 성동구 | 경력무관 |  | not_checked |
+| jobkorea | ㈜티디에이치컴퍼니 | [남성의류 쇼핑몰 오까네[자사몰] 웹디자이너 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50301325) | 서울 동대문구 | 신입 |  | not_checked |
+| jobkorea | ㈜티디에이치컴퍼니 | [[오까네(OKKANE)]  온라인 플랫폼  웹디자이너 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50288372) | 서울 동대문구 | 신입 |  | not_checked |
+| jobkorea | ㈜넥트홀딩스 | [[아이엠디어] 온라인 의류 쇼핑몰 웹디자이너 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50130671) | 서울 강서구 | 경력무관 |  | not_checked |
+| jobkorea | ㈜에이스프로젝트 | [UI디자이너(2년차 이내)(AI활용)](https://www.jobkorea.co.kr/Recruit/GI_Read/50303872) | 서울 중구 |  |  | not_checked |
 | jobkorea | 씨씨씨컴퍼니 | [(주)씨씨씨컴퍼니 YASE AI 콘텐츠 디자이너 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50176782) | 서울 동대문구 |  |  | not_checked |
 | jobkorea | 주식회사 하이스트그로우 | [2026 하이스트 출판사 경력 북디자이너ㆍAI 활용 가능자 정규직 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50267297) | 서울 강남구 |  |  | not_checked |
 | jobkorea | ㈜컬러퍼즐 | [[바인] AI 적극 활용 가능한 영상 디자이너 모집](https://www.jobkorea.co.kr/Recruit/GI_Read/50155533) | 서울 마포구 | 경력무관 |  | not_checked |
@@ -183,7 +183,6 @@ Search candidates only; not verified recommendations.
 | jobkorea | ㈜포브라이프 | [[운동복 브랜드] 웹디자이너 채용 / 상세페이지  배너디자인 AI 활용](https://www.jobkorea.co.kr/Recruit/GI_Read/50119110) | 서울 동대문구 | 경력무관 |  | not_checked |
 | jobkorea | 주식회사 비드유니버스 | [패션·잡화 브랜드 AI 콘텐츠 제작자, AI크리에이터 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50167811) | 서울 마포구 | 경력무관 |  | not_checked |
 | jobkorea | 143엔터테인먼트 | [143엔터테인먼트 AI콘텐츠 크리에이터 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50161941) | 서울 강남구 |  |  | not_checked |
-| jobkorea | ㈜스푼랩스 | [[Vigloo] AI 영상 크리에이터 (1년 계약직/숏드라마 AI Content Creator)](https://www.jobkorea.co.kr/Recruit/GI_Read/50137423) | 서울 강남구 | 경력무관 |  | not_checked |
 | jobkorea | ㈜노벨라스튜디오 | [[노벨라스튜디오] 여성향 AI 드라마 크리에이터](https://www.jobkorea.co.kr/Recruit/GI_Read/50194115) | 서울 마포구 | 경력무관 |  | not_checked |
 | jobkorea | ㈜브라이트비드 | [(주)브라이트비드 AI콘텐츠 제작자, AI크리에이터 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50167837) | 서울 마포구 | 경력무관 |  | not_checked |
 | jobkorea | ㈜베이컨디자인스튜디오 | [Ai 영상콘텐츠 크리에이터 모집합니다.](https://www.jobkorea.co.kr/Recruit/GI_Read/50048838) | 서울 금천구 | 신입 |  | not_checked |
@@ -200,3 +199,4 @@ Search candidates only; not verified recommendations.
 | jobkorea | 오늘의치과 | [[오늘의치과의원] 인하우스 웹·영상 디자이너 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50251138) | 서울 강남구 | 경력무관 |  | not_checked |
 | jobkorea | 제로피부과의원 | [[강남역] 제로피부과 이미지·영상 콘텐츠 디자이너 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50104403) | 서울 서초구 |  |  | not_checked |
 | jobkorea | 커머스 프렌즈 | [[커머스프렌즈] 함께할 프리랜서 디자이너를 모집합니다/ 풀재택근무](https://www.jobkorea.co.kr/Recruit/GI_Read/50179384) | 서울 서초구 | 경력무관 |  | not_checked |
+| jobkorea | 모앤라인성형외과의원 | [[모앤라인성형외과]브랜드 콘텐츠 디자이너 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50279700) | 서울 강남구 | 신입 |  | not_checked |
