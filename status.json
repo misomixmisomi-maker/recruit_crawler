@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-13T09:02:37.561516+09:00",
+  "generated_at": "2026-11-13T12:24:35.886027+09:00",
   "status": "collected",
   "sources": [
     {
       "source": "saramin",
-      "collected": 433,
+      "collected": 430,
       "requests_ok": 12,
       "status": "ok",
       "errors": []
     },
     {
       "source": "jobkorea",
-      "collected": 245,
+      "collected": 246,
       "requests_ok": 12,
       "status": "ok",
       "errors": [],
@@ -20,8 +20,8 @@
     }
   ],
   "counts": {
-    "collected": 678,
-    "candidates": 187,
+    "collected": 676,
+    "candidates": 185,
     "excluded": 491,
     "verified_recommendations": 0
   },
