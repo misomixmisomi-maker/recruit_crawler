@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-15T11:37:14.672172+09:00",
+  "generated_at": "2026-11-16T08:59:41.955772+09:00",
   "status": "collected",
   "sources": [
     {
       "source": "saramin",
-      "collected": 429,
+      "collected": 432,
       "requests_ok": 12,
       "status": "ok",
       "errors": []
     },
     {
       "source": "jobkorea",
-      "collected": 247,
+      "collected": 259,
       "requests_ok": 12,
       "status": "ok",
       "errors": [],
@@ -20,9 +20,9 @@
     }
   ],
   "counts": {
-    "collected": 676,
+    "collected": 691,
     "candidates": 181,
-    "excluded": 495,
+    "excluded": 510,
     "verified_recommendations": 0
   },
   "verification_note": "검색후보 및 상세 근거. 필수조건·업무 유사성은 브리핑에서 검증. 경로 미조회."
