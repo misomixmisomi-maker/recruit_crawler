@@ -1,11 +1,11 @@
 # Latest collection
 
-Checked: 2026-11-15T09:02:23.864276+09:00
+Checked: 2026-11-15T11:37:14.672172+09:00
 
 Search candidates only; not verified recommendations.
 
 - saramin: ok, 429 collected
-- jobkorea: ok, 246 collected
+- jobkorea: ok, 247 collected
 
 | Platform | Company | Job | Region | Career | Deadline | Detail |
 |---|---|---|---|---|---|---|
@@ -150,10 +150,11 @@ Search candidates only; not verified recommendations.
 | jobkorea | 원웨이 | [[Oneway] 브랜드 디자이너 인턴 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50046160) | 서울 성북구 | 신입 |  | not_checked |
 | jobkorea | 듀베소랩 | [[스타트업] ZZAPPY 뷰티 브랜드 디자이너 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/50322690) | 서울 서초구 | 신입 |  | not_checked |
 | jobkorea | ㈜지성인터내셔널 | [[백작피렌체] 브랜드 디자이너 구인](https://www.jobkorea.co.kr/Recruit/GI_Read/50334615) | 서울 강남구 | 신입 |  | not_checked |
-| jobkorea | 아토모스 | [커머스 디자이너](https://www.jobkorea.co.kr/Recruit/GI_Read/50174361) |  | 경력무관 |  | not_checked |
 | jobkorea | 블랙퍼플 | [[파시온] 패션 브랜드 서브디자이너](https://www.jobkorea.co.kr/Recruit/GI_Read/50223953) | 서울 성동구 | 경력무관 |  | not_checked |
+| jobkorea | 아토모스 | [커머스 디자이너](https://www.jobkorea.co.kr/Recruit/GI_Read/50174361) |  | 경력무관 |  | not_checked |
 | jobkorea | ㈜원에프엔씨 | [여성의류 쇼핑몰 디자인팀 보조 3시간 아르바이트 모집](https://www.jobkorea.co.kr/Recruit/GI_Read/50354349) | 서울 동대문구 | 경력무관 |  | not_checked |
 | jobkorea | ㈜큐아이엔씨 | [마케팅사업부 웹디자이너 채용 (경력)](https://www.jobkorea.co.kr/Recruit/GI_Read/50247220) | 서울 강남구 |  |  | not_checked |
+| jobkorea | ㈜홈스리치 | [이커머스 콘텐츠 디자이너](https://www.jobkorea.co.kr/Recruit/GI_Read/50348855) | 서울 강서구 | 경력무관 |  | not_checked |
 | jobkorea | ㈜그릿에이치알 | [[무신사/성수] 온사이트 운영 및 유지 관리 디자이너 구인 / 재택가능](https://www.jobkorea.co.kr/Recruit/GI_Read/50312584) | 서울 성동구 | 신입 |  | not_checked |
 | jobkorea | ㈜어센드 | [[AI 활용] 이커머스 브랜드 웹디자인 웹디자이너 모집 (사전인터뷰O)](https://www.jobkorea.co.kr/Recruit/GI_Read/50272456) | 서울 강남구 | 신입 |  | not_checked |
 | jobkorea | 주식회사마리맨즈 | [마리맨즈와 함께하실 웹디자이너 모집합니다](https://www.jobkorea.co.kr/Recruit/GI_Read/50179291) | 서울 성동구 | 경력무관 |  | not_checked |

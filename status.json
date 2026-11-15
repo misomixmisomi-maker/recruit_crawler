@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-15T09:02:23.864276+09:00",
+  "generated_at": "2026-11-15T11:37:14.672172+09:00",
   "status": "collected",
   "sources": [
     {
@@ -12,7 +12,7 @@
     },
     {
       "source": "jobkorea",
-      "collected": 246,
+      "collected": 247,
       "requests_ok": 12,
       "status": "ok",
       "errors": [],
@@ -20,8 +20,8 @@
     }
   ],
   "counts": {
-    "collected": 675,
-    "candidates": 180,
+    "collected": 676,
+    "candidates": 181,
     "excluded": 495,
     "verified_recommendations": 0
   },
