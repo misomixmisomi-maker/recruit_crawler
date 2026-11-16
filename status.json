@@ -1,14 +1,15 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-16T08:59:41.955772+09:00",
+  "generated_at": "2026-11-16T11:43:13.988027+09:00",
   "status": "collected",
   "sources": [
     {
       "source": "saramin",
-      "collected": 432,
+      "collected": 433,
       "requests_ok": 12,
       "status": "ok",
-      "errors": []
+      "errors": [],
+      "detail_error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
     },
     {
       "source": "jobkorea",
@@ -20,9 +21,9 @@
     }
   ],
   "counts": {
-    "collected": 691,
-    "candidates": 181,
-    "excluded": 510,
+    "collected": 692,
+    "candidates": 184,
+    "excluded": 508,
     "verified_recommendations": 0
   },
   "verification_note": "검색후보 및 상세 근거. 필수조건·업무 유사성은 브리핑에서 검증. 경로 미조회."
