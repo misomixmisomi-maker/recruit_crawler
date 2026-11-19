@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-19T13:08:53.757057+09:00",
+  "generated_at": "2026-11-20T08:59:08.807256+09:00",
   "status": "collected",
   "sources": [
     {
@@ -12,16 +12,16 @@
     },
     {
       "source": "jobkorea",
-      "collected": 244,
+      "collected": 240,
       "requests_ok": 12,
       "status": "ok",
       "errors": []
     }
   ],
   "counts": {
-    "collected": 676,
-    "candidates": 177,
-    "excluded": 499,
+    "collected": 672,
+    "candidates": 174,
+    "excluded": 498,
     "verified_recommendations": 0
   },
   "verification_note": "검색후보 및 상세 근거. 필수조건·업무 유사성은 브리핑에서 검증. 경로 미조회."
