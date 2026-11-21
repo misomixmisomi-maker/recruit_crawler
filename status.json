@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-21T09:06:14.339536+09:00",
+  "generated_at": "2026-11-21T12:56:31.627649+09:00",
   "status": "collected",
   "sources": [
     {
       "source": "saramin",
-      "collected": 432,
+      "collected": 434,
       "requests_ok": 12,
       "status": "ok",
       "errors": []
@@ -20,9 +20,9 @@
     }
   ],
   "counts": {
-    "collected": 684,
-    "candidates": 171,
-    "excluded": 513,
+    "collected": 686,
+    "candidates": 172,
+    "excluded": 514,
     "verified_recommendations": 0
   },
   "verification_note": "검색후보 및 상세 근거. 필수조건·업무 유사성은 브리핑에서 검증. 경로 미조회."
