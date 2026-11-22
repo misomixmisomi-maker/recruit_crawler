@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-22T09:03:43.776965+09:00",
+  "generated_at": "2026-11-22T12:04:41.824266+09:00",
   "status": "collected",
   "sources": [
     {
@@ -21,8 +21,8 @@
   ],
   "counts": {
     "collected": 666,
-    "candidates": 169,
-    "excluded": 497,
+    "candidates": 167,
+    "excluded": 499,
     "verified_recommendations": 0
   },
   "verification_note": "검색후보 및 상세 근거. 필수조건·업무 유사성은 브리핑에서 검증. 경로 미조회."
